@@ -36,6 +36,8 @@ ID (`user-name`, `login-button`), class name (`title`, `shopping_cart_badge`) an
 - Playwright code is shorter (`page.fill`, `page.click`).
 - Selenium supports more languages and browsers and is the long-time industry standard.
 
+A fuller comparison with Cypress, WebdriverIO, Robot Framework, Katalon, Appium and Postman is in [ALTERNATIVES.md](ALTERNATIVES.md).
+
 ## Bugs found and logged in JIRA
 
 While testing other SauceDemo users I logged these bugs in JIRA (steps, expected vs actual, severity, priority, screenshot):
