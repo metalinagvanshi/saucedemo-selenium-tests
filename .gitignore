@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Test output
+*.png
+
+# Personal study notes (not part of the project)
+STUDY_PLAN.md
+*_NOTES.md
+.DS_Store
